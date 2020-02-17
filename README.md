@@ -1,17 +1,21 @@
 # Nextagram (Instagram clone)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a project created by React (incorporated ES6, React Hooks & APIs) and serve as an instagram clone where you are able to create an account, log in, upload photos and see all the other users' profiles that have already registered on the platform. 
 
-### [View the demo](#)
+The UI might not be perfect at the moment though it can be improved, this serves as a MVP to test the features.
+
+### [View the demo](https://cocky-mahavira-4d8ccc.netlify.com/)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Installation 
 
 ```
 //Clone this git repo:
 
-git clone https://github.com/jovanimal/Frontend-Assignment.git
+git clone https://github.com/jovanimal/Nextagram-Jan.git
 
-cd Frontend-Assignment/
+cd Nextagram-Jan
 
 npm start
 ```
