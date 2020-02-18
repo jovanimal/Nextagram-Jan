@@ -6,9 +6,9 @@ The UI might not be perfect at the moment though it can be improved for better u
 
 ### [View the demo](https://cocky-mahavira-4d8ccc.netlify.com/)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href="https://imgflip.com/gif/3pi6t4"><img src="https://i.imgflip.com/3pi6t4.gif" title="made at imgflip.com"/></a>
 
-<a href="https://imgflip.com/gif/3pi6kj"><img src="https://i.imgflip.com/3pi6kj.gif" title="made at imgflip.com"/></a>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ### Installation 
 
