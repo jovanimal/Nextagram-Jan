@@ -2,7 +2,7 @@
 
 This is a project created by React (incorporated ES6, React Hooks & APIs) and acts as an instagram clone where you are able to create an account, log in, upload photos and see all the other users' profiles that have already registered on the platform. 
 
-The UI might not be perfect at the moment though it can be improved, this serves as a MVP to test the features.
+The UI might not be perfect at the moment though it can be improved for better user experience and more user friendly, this serves as an MVP to test the features.
 
 ### [View the demo](https://cocky-mahavira-4d8ccc.netlify.com/)
 
